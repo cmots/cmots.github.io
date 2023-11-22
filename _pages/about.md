@@ -7,10 +7,10 @@ permalink: /
 profile:
   align: right
   image: profile.jpg
-  image_circular: true # crops the image to make it circular
+  image_circular: false # crops the image to make it circular
   more_info: >
     <p>Rm727, Ho Sin Hang Engineering Building</p>
-    <p>The Chinese University of Hong Kong, Shatin</p>
+    <p>CUHK, Shatin</p>
     <p>Hong Kong, New Territories</p>
 
 news: false  # includes a list of news items

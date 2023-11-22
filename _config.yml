@@ -2,7 +2,7 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: Who is Sitong # the website title (if blank, full name will be used instead)
+title: About me # the website title (if blank, full name will be used instead)
 first_name: Sitong
 middle_name: 
 last_name: CHENG
@@ -128,7 +128,7 @@ pagination:
   enabled: true
 
 related_blog_posts:
-  enabled: true
+  enabled: false
   max_related: 5
 
 # Giscus comments (RECOMMENDED)

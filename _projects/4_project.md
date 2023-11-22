@@ -1,13 +1,13 @@
 ---
 layout: page
-title: CN-Celeb
-description: A large-scale multi-genre speaker recognition dataset.
+title: CN-Celeb, A large-scale multi-genre speaker recognition dataset
+description: CN-Celeb is a multi-genre dataset covering 11 different genres in real world, collected from multiple Chinese open media sources.
 importance: 3
 redirect: http://cnceleb.org/#about
-img: assets/img/celeb-01.jpg
+img: assets/img/celeb-01.png
 category: work
 ---
-Update!!!!!
+Update!!!! up!!!
 
 Every project has a beautiful feature showcase page.
 It's easy to include images in a flexible 3-column grid format.

@@ -4,7 +4,7 @@ title: CN-Celeb
 description: A large-scale multi-genre speaker recognition dataset.
 importance: 3
 redirect: http://cnceleb.org/#about
-img: 
+img: celeb-01.jpg
 category: work
 ---
 Every project has a beautiful feature showcase page.

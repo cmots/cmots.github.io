@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://cmots.github.io/sitemap.xml

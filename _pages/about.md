@@ -2,7 +2,7 @@
 layout: about
 title: About Me
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+# subtitle: Research Assistant in <a href="https://aiot.ie.cuhk.edu.hk">AIoT Lab</a>
 
 profile:
   align: right
@@ -18,4 +18,6 @@ latest_posts: false  # includes a list of the newest posts
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
-Hello, here may be some wrods for you.
+I'm currently a research assistant in `<a href="https://aiot.ie.cuhk.edu.hk">`AIoT Lab `</a>`.  I work on AI-powered wireless sensing and health systems with privacy-preserving technologies.
+
+I'm also interested in systems for AI, distributed systems, and database storage. I am currently looking for PhD opportunities. If you are interested in my experience, please feel free to contact me!

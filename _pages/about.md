@@ -20,4 +20,6 @@ social: true  # includes social icons at the bottom of the page
 ---
 I'm currently a research assistant in [AIoT Lab](https://aiot.ie.cuhk.edu.hk). I work on AI-powered wireless sensing and health systems with privacy-preserving technologies.
 
-I'm also interested in systems for AI, distributed systems, and database storage. I am currently looking for PhD opportunities. If you are interested in my experience, please feel free to contact me!
+I'm also interested in generative AI and system for AI. I am currently looking for PhD opportunities. If you are interested in my experience, please feel free to contact me!
+
+I'm interested in Stable Diffusion now. You can also ask me to *draw (generate)* some pictures.
